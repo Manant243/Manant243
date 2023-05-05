@@ -1,21 +1,12 @@
-### Hi there 👋
 
-<!--
-**Manant243/Manant243** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 # <div align="center"> Hi <img src = "https://user-images.githubusercontent.com/78593368/119226953-4de77600-bb29-11eb-8d16-9479fa967348.gif" width="55px" height="55px"> I am Manant Tyagi</div>
+
+- 🔭 I’m currently working on DevDojo
+- 🌱 I’m currently learning Data Structures and Algorithms
+- 👯 I’m looking to collaborate on Web Dev Projects
+- 💬 Ask me about Backend developement
+- 📫 How to reach me: @mananttyagi on Twitter
 
 ## **About Me :** 👦
 I am a passionate self-taught backend developer and a competitive programmer from India. 
@@ -45,7 +36,7 @@ I am a passionate self-taught backend developer and a competitive programmer fro
 </h2>
 <div align = "center">
   
-[![Kshitiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manant243&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Manant's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manant243&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
   <img src = "https://github-readme-streak-stats.herokuapp.com/?user=Manant243&line_height=40&theme=dark">
 </div>
 

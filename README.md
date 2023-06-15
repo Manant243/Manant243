@@ -12,23 +12,7 @@
 I am a passionate self-taught backend developer and a competitive programmer from India. 
 ## **Tech Stack :**
 <!-- -->
-<code>[<img height ="33" src ="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/nodejs/nodejs-original.svg">](https://nodejs.dev/)</code>
-<code>[<img height ="33" src ="https://github.com/Kshitiz1403/Kshitiz1403/blob/main/icons/express.png?raw=true">](https://expressjs.com/)</code>
-<code>[<img height ="33" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg">](https://socket.io/)</code>
-<code>[<img height ="33" src ="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/mongodb/mongodb-original.svg">](https://www.mongodb.com/)</code>
-<code>[<img height ="33" src ="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/react/react-original.svg">](https://reactjs.org/)</code>
-<code>[<img height ="33" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">](https://redux.js.org/)</code>
-<code>[<img height ="33" src ="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/redis/redis-original.svg">](https://redis.io/)</code>
-<code>[<img height ="33" src ="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/mysql/mysql-original.svg">](https://www.mysql.com/)</code>
-<code>[<img height ="33" src="https://github.com/Kshitiz1403/Kshitiz1403/blob/main/icons/postman.png?raw=true">](https://www.postman.com/)</code>
-<code>[<img height ="33" src ="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg">](https://www.typescriptlang.org/)</code>
-<code>[<img height ="33" src ="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/javascript/javascript-original.svg">](https://www.javascript.com/)</code>
-<code>[<img height ="33" src ="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/python/python-original.svg">](https://www.python.org/)</code>
-<code>[<img height ="33" src ="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/cplusplus/cplusplus-original.svg">](https://www.cplusplus.com/)</code>
-<code>[<img height ="33" src ="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/java/java-original.svg">](https://www.java.com/)</code>
-<code>[<img height ="33" src ="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/html5/html5-original.svg">](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)</code>
-<code>[<img height ="33" src ="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/css3/css3-original.svg">](https://developer.mozilla.org/en-US/docs/Web/CSS)</code>
-<code>[<img height ="33" src ="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/bootstrap/bootstrap-original.svg">](https://getbootstrap.com/)</code>
+  [![My Skills](https://skills.thijs.gg/icons?i=expressjs,nodejs,mongodb,react,git,redis,mysql,postman,typescript,javascript,cpp,python&theme=dark)](https://skills.thijs.gg)
 
 
 <h2 align="center">
